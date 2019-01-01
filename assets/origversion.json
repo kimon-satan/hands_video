@@ -1,0 +1,30 @@
+[
+ {
+ "name": "left",
+ "src_dims": [0.666,0,1,1],
+ "dst_coord": [0,0],
+ "scale": 1.0,
+ "flip_h": false,
+ "flip_v": false,
+ "delay": 0
+ },
+ {
+ "name": "center",
+ "src_dims": [0,0,0.333,1],
+ "dst_coord": [0.333,0],
+ "scale": 1.0,
+ "flip_h": false,
+ "flip_v": false,
+ "delay": 90
+ },
+ {
+ "name": "right",
+ "src_dims": [0,0,0.333,1],
+ "dst_coord": [0.666,0],
+ "scale": 1.0,
+ "flip_h": false,
+ "flip_v": false,
+ "delay": 0
+ }
+ 
+ ]
